@@ -1,11 +1,11 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
 COMPANY NAME : CODETECH IT SOLUTIONS
-NAME : Savaliya Grency Ashokbhai
-Intern ID :CT04DL217
-DOMAIN : Frontend Web Development
-DURATION : 4 weeks
-MENTOR : Neela Santosh
+*NAME : Savaliya Grency Ashokbhai
+*Intern ID :CT04DL217
+*DOMAIN : Frontend Web Development
+*DURATION : 4 weeks
+*MENTOR : Neela Santosh
 
 ## DESCRIPTION 
 **Task Description:**
