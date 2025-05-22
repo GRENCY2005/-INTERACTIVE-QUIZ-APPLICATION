@@ -51,6 +51,7 @@ Build a web-based quiz application using HTML, CSS, and JavaScript that allows u
 
 **Deliverable:**
 
+![Image](https://github.com/user-attachments/assets/ac7dc383-d376-48b8-993b-e176c4d248e1)
 A fully functional and visually polished quiz web app that:
 * Loads questions dynamically
 * Allows user interaction
