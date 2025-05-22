@@ -1,5 +1,6 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
+|---------------|-------------------------------------|
 | **Company Name**  | CODETECH IT SOLUTIONS              |
 | **Name**          | Savaliya Grency Ashokbhai          |
 | **Intern ID**     | CT04DL217                          |
