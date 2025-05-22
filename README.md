@@ -60,3 +60,5 @@ A fully functional and visually polished quiz web app that:
 ## OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/ac7dc383-d376-48b8-993b-e176c4d248e1)
+
+![Image](https://github.com/user-attachments/assets/0e1f6405-5d83-44e4-8fb0-7338ea466568)
